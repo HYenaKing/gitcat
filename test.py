@@ -9,3 +9,4 @@ while True:
     sum += i
  
 print(sum)
+print( sum+2)
