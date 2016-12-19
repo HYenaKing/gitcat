@@ -19,3 +19,5 @@ print( sum+2)
 print(sum*100)
 print(sum++)
 print(sum+sum)
+
+print((sum*sum)/2)
