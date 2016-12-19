@@ -11,3 +11,4 @@ while True:
 print(sum)
 print( sum+2)
 print(sum*100)
+print(sum++)
