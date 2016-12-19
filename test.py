@@ -21,3 +21,4 @@ print(sum++)
 print(sum+sum)
 
 print((sum*sum)/2)
+print('hello')
